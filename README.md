@@ -10,8 +10,12 @@ Internship Period: August 1, 2024 - August 31, 2024
 
 **Features**
 
-Responsive Design: Optimized for various devices, including desktops, tablets, and smartphones.
-Project Showcases: Displays completed projects with detailed descriptions and links.
-Skill Highlights: Provides an overview of technical skills and proficiencies.
-Resume Section: Includes a downloadable resume or detailed resume information.
-Contact Information: Features a contact form or details for reaching out.
+**Responsive Design:** Optimized for various devices, including desktops, tablets, and smartphones.
+
+**Project Showcases:** Displays completed projects with detailed descriptions and links.
+
+**Skill Highlights:** Provides an overview of technical skills and proficiencies.
+
+**Resume Section: **Includes a downloadable resume or detailed resume information.
+
+**Contact Information: **Features a contact form or details for reaching out.
