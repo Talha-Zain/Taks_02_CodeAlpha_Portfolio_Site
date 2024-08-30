@@ -16,6 +16,6 @@ Internship Period: August 1, 2024 - August 31, 2024
 
 **Skill Highlights:** Provides an overview of technical skills and proficiencies.
 
-**Resume Section: **Includes a downloadable resume or detailed resume information.
+**Resume Section:** Includes a downloadable resume or detailed resume information.
 
-**Contact Information: **Features a contact form or details for reaching out.
+**Contact Information:** Features a contact form or details for reaching out.
